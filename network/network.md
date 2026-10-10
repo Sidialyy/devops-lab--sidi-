@@ -8,7 +8,7 @@
  |----------|---------------|------------|-------|--------------------------| 
  | frontend | 172.20.0.0/24 | 172.20.0.1 | 254   | Public services (web)    | 
 <<<<<<< HEAD
- | backend  | 172.21.0.0/25 | 172.21.0.1 | 254   | Internal (API, database) |
+ | backend  | 172.22.0.0/24 | 172.21.0.1 | 254   | Internal (API, database) |
 =======
  | backend  | 172.21.0.0/25 | 172.21.0.1 | 254   | Internal (API, database) |
 >>>>>>> feature/backend-a
